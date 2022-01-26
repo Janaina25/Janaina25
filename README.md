@@ -1,4 +1,4 @@
-- ### Olá, 👋 Eu sou Janaina Oliveira e estou estudando novas tecnologias como Desenvolvimento Front-end
+- ### Olá, 👋 Eu sou Janaina Oliveira e estudante de Desenvolvimento Front-end
 
  
 
