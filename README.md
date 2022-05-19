@@ -1,4 +1,4 @@
-- #### Olá, 👋 Eu sou Janaina Oliveira estudante de Desenvolvimento Front-end e apaixonada por tecnologia.
+- #### Olá, 👋 Eu sou Janaina Oliveira front-end developer .
 
  
 
