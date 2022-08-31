@@ -1,4 +1,5 @@
-- #### Olá! Me chamo Janaina Oliveira sou estudante FrontEnd
+- #### Olá! Me chamo Janaina Oliveira sou desenvolvedora FrontEnd.
+- #### Meta de vida me tornar uma Fullstak.
 
  
 
