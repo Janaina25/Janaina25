@@ -1,5 +1,5 @@
-- #### Olá! Me chamo Janaina Oliveira sou desenvolvedora FrontEnd.
-- #### Meta de vida me tornar uma Fullstak.
+- #### Olá! Me chamo Janaina Oliveira e Seja bem vindo(a) ao meu GitHub.
+
 
  
 
