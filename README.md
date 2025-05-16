@@ -1,4 +1,4 @@
-- #### Olá! Me chamo Janaina Oliveira e Seja bem vindo(a) ao meu GitHub.
+- #### Olá! Me chamo Janaina Oliveira e seja bem vindo(a) ao meu GitHub.
 
 
  
