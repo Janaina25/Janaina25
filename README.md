@@ -22,7 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Janaina%20Oliveira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janainaoli/)  
 
-✉️ Email: `janainalinkedin@gmail.com`
+✉️ Email: `janainalindedin2025@gmail.com`
 
 ---
 
