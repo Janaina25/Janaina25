@@ -1,4 +1,4 @@
-### 🧙‍♀️ Janaina Oliveira | Trabalho com Frontend/backend  
+### 🧙‍♀️ Janaina Oliveira | Trabalho com Frontend/Backend  
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Olá%20👋%20Eu%20sou%20a%20Janaina%20Oliveira!&fontSize=30&fontColor=ffffff)
 
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
